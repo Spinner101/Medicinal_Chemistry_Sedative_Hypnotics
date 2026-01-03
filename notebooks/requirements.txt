@@ -1,0 +1,6 @@
+requests
+pandas
+matplotlib
+networkx
+py3Dmol
+Pillow
